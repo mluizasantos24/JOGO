@@ -38,12 +38,3 @@ print()
 
 Escreva o seu nome e liste os erros logo a baixo: 
 -nome: erros:
--nome: erros:
--nome: erros:
--nome: erros:
--nome: erros:
--nome: erros:
--nome: erros:
--nome: erros:
--nome: erros:
--nome: erros:
