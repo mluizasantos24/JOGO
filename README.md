@@ -1,44 +1,37 @@
 # JOGO
-class Impressora:
+Class impressora:
     def (self,nome, imprimindo=False):
         self.nome= nome
         self.imprimindo=imprimindo
-    def imprimir(self):
+    def imprimir:
         if self.imprimindo:
-            print(f'{self.nome} está imprimindo...')
-            return
+            print('{self.nome} está imprimindo...')
+            
         
-        print(f'{self.nome} já está imprimindo...')
+        print('{self.nome} já está imprimindo...')
         self.imprimindo=True
         
-    def parar_impressao(self):
+    def parar_impressao:
         if not self.imprimindo:
-            print(f'{self.nome} não está imprimindo...')
-        return
+            print('{self.nome} não está imprimindo...')
         
-        print(f'{self.nome}está parando a impressão...')
+        
+        print('{self.nome}está parando a impressão...')
         self.imprimindo= False
         
-    def digitalizar(self):
+    def digitalizar:
         if self.imprimindo:
-            print(f'{self.nome} não pode digitalizar enquanto imprime...')
-            return
-        print(f'{self.nome} está digitalizando...')
+            print('{self.nome} não pode digitalizar enquanto imprime...')
+            
+        print('{self.nome} está digitalizando...')
 
 im1 = Impressora('Dell')
-im2 = Impressora('Canon')
       
-im1.imprimir()
-im1.imprimir()
-im1.digitalizar()
-im1.parar_impressao()
-im1.digitalizar()
+im1=imprimir()
+im1=imprimir()
+im1=digitalizar()
+im1=parar_impressao()
+im1=digitalizar()
 
 print()
 
-im2.escanear()
-im2.imprimir()
-im2.imprimir()
-im2.escanear()
-im2.parar_impressao()
-im2.escanear()
