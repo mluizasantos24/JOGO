@@ -38,3 +38,5 @@ print()
 
 Escreva o seu nome e liste os erros logo a baixo: 
 -nome: erros:
+danilo miranda
+erros: tá faltando o return, tá faltando o f no print, tá faltando o init, a class impressora está escrita com I minusculo, na def está faltando o self, o espaçamento,  o Dell no final está errado
