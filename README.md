@@ -56,3 +56,7 @@ Escreva o seu nome e liste os erros logo a baixo:
 
 -nome: Danilo
 Erros: Falta o init, faltando o self nos metodos, a logica tá errada no metodo de imprimir e tambem no parar_impressao, o print ta sendo usado errado, a formatação ta errada no digitalizar e ta chamando os metodos de instância errado
+
+Nome: Geovana
+erros: Faltando o _init_, falta o f' antes dos prints, falta do self, falta do return, 'Dell', espaçamento errado nos =, class deveria ter letra maiuscula
+
