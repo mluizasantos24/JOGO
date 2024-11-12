@@ -38,3 +38,8 @@ print()
 
 Escreva o seu nome e liste os erros logo a baixo: 
 -nome:João Guilherme R. Quaresma erros: Erros: falta do `__init__`, ausência de `self` nos métodos, uso incorreto de chaves no `print`, lógica condicional mal posicionada nos métodos `imprimir` e `parar_impressao`, erro de formatação no método `digitalizar` e chamadas incorretas dos métodos na instância.
+
+Sofia:
+(f'{self.nome}...') que não estava no print
+parar_impressao e digitalizar que não tem ()
+falta de else quando self.imprimindo foi True
