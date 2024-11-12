@@ -43,3 +43,5 @@ Sofia:
 (f'{self.nome}...') que não estava no print
 parar_impressao e digitalizar que não tem ()
 falta de else quando self.imprimindo foi True
+
+-nome:anabel erros:imprimir linha 6,falta o 'f' no print, falta de return, depois da linha 16 falta o self true, comando repetido na linha 31, a classe esta com letra maiúscula e o nome da classe ta minúscula, linha 24 em vez de imprimir está 'imprime'.
