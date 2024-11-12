@@ -37,4 +37,9 @@ print()
 
 
 Escreva o seu nome e liste os erros logo a baixo: 
+
+-nome: Danilo
+Erros: Falta o init, faltando o self nos metodos, a logica tá errada no metodo de imprimir e tambem no parar_impressao, o print ta sendo usado errado, a formatação ta errada no digitalizar e ta chamando os metodos de instância errado
+
+
 -nome:João Guilherme R. Quaresma erros: Erros: falta do `__init__`, ausência de `self` nos métodos, uso incorreto de chaves no `print`, lógica condicional mal posicionada nos métodos `imprimir` e `parar_impressao`, erro de formatação no método `digitalizar` e chamadas incorretas dos métodos na instância.
