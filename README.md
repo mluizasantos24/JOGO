@@ -49,3 +49,5 @@ falta de else quando self.imprimindo foi True
 danilo miranda
 erros: tá faltando o return, tá faltando o f no print, tá faltando o init, a class impressora está escrita com I minusculo, na def está faltando o self, o espaçamento,  o Dell no final está errado
 
+-nome: Danilo
+Erros: Falta o init, faltando o self nos metodos, a logica tá errada no metodo de imprimir e tambem no parar_impressao, o print ta sendo usado errado, a formatação ta errada no digitalizar e ta chamando os metodos de instância errado
