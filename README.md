@@ -53,4 +53,5 @@ erros: tá faltando o return, tá faltando o f no print, tá faltando o init, a 
 Escreva o seu nome e liste os erros logo a baixo: 
 -nome:murilin08 erros: falta o init no comeco, ta faltando return, class nao ta com letra maiuscula, ta sem formatacao, no comeco ta faltando o espaco, no final ta com igual,falta self ,commit
 
-
+-nome: Danilo
+Erros: Falta o init, faltando o self nos metodos, a logica tá errada no metodo de imprimir e tambem no parar_impressao, o print ta sendo usado errado, a formatação ta errada no digitalizar e ta chamando os metodos de instância errado
