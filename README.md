@@ -49,3 +49,8 @@ falta de else quando self.imprimindo foi True
 danilo miranda
 erros: tá faltando o return, tá faltando o f no print, tá faltando o init, a class impressora está escrita com I minusculo, na def está faltando o self, o espaçamento,  o Dell no final está errado
 
+
+Escreva o seu nome e liste os erros logo a baixo: 
+-nome:murilin08 erros: falta o init no comeco, ta faltando return, class nao ta com letra maiuscula, ta sem formatacao, no comeco ta faltando o espaco, no final ta com igual,falta self ,commit
+
+
