@@ -45,3 +45,7 @@ parar_impressao e digitalizar que não tem ()
 falta de else quando self.imprimindo foi True
 
 -nome:anabel erros:imprimir linha 6,falta o 'f' no print, falta de return, depois da linha 16 falta o self true, comando repetido na linha 31, a classe esta com letra maiúscula e o nome da classe ta minúscula, linha 24 em vez de imprimir está 'imprime'.
+
+danilo miranda
+erros: tá faltando o return, tá faltando o f no print, tá faltando o init, a class impressora está escrita com I minusculo, na def está faltando o self, o espaçamento,  o Dell no final está errado
+
