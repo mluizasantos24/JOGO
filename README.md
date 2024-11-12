@@ -37,4 +37,5 @@ print()
 
 
 Escreva o seu nome e liste os erros logo a baixo: 
--nome: erros:
+-nome: erros: Marcelo Allan: print sem F , im1 nao pode eata com igual, im1.digitalizar(), 
+
